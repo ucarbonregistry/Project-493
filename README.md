@@ -31,3 +31,18 @@ _________________
 The power produced by the 10MW is evacuated at the 66 KV Rangenahalli substation located at
 Rangenahalli, Hiriyur Taluk, Chitradurga Dist, Karnataka. 
 
+PRIOR HISTORY CDM
+________
+1. The project activity initially submitted a Prior Consideration under the Clean Development
+Mechanism (CDM) of the UNFCCC for registration on 03/04/2015 (LINK: https://cdm.unfccc.int/Projects/PriorCDM/notifications/index_html?s=1340
+). However, the project
+proponent did not pursue CDM registration afterward. Another project activity was
+submitted for prior consideration under CDM for registration on 01/10/2015 (LINK: 
+2 https://cdm.unfccc.int/Projects/PriorCDM/notifications/index_html?s=1220), which is different from the current project activity. The project is now being applied under UCR to issue carbon credits and receive carbon financing.
+
+2. The project has not been applied under any other greenhouse gas (GHG) mechanism except
+for CDM. Additionally, for any period under UCR, CDM validation and verifications have
+not been conducted, and no credits have been issued. Therefore, the project will not cause
+double accounting of carbon credits (i.e., COUs). 
+
+
